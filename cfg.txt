@@ -1,0 +1,4 @@
+map:map.txt
+script:script_example.txt
+sound:on
+speed:500
